@@ -1,0 +1,32 @@
+{
+  "name": "Changa",
+  "designer": "Eduardo Tunni",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 21542,
+  "fonts": [
+    {
+      "name": "Changa",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Changa-Regular-TTF.ttf",
+      "postScriptName": "Changa-Regular",
+      "fullName": "Changa",
+      "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Changa'"
+    },
+    {
+      "name": "Changa",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Changa-Regular.ttf",
+      "postScriptName": "Changa-Regular",
+      "fullName": "Changa",
+      "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Changa'"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-10-31"
+}
